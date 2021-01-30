@@ -1,2 +1,2 @@
-const lets = 93;
-const immortals = 44;
+const lets = 55;
+const immortals = 88;
