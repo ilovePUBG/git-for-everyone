@@ -1,2 +1,6 @@
-const lets = 55;
-const immortals = 88;
+const names = ["nico", "lynn", "flynn"];
+
+// const hearts = names.map(item => {return item + "❤";});
+const hearts = names.map((item, index) => item + "❤" + index);
+
+console.log(hearts);
